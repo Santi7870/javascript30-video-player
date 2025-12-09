@@ -36,15 +36,15 @@ video-player/
 
 - Capturas de Pantalla
 
-<img width="882" height="670" alt="image" src="https://github.com/user-attachments/assets/5bb84a5d-c7c6-44bb-99c8-2efbed76ddc6" />
+<img width="1277" height="805" alt="image" src="https://github.com/user-attachments/assets/bad97c5b-0a44-4056-97a7-7ccd92e4daf1" />
 
 
 - Cómo Ejecutarlo Localmente
 
 1. Clona este repositorio:
 
-[git clone https://github.com/TU-USUARIO/video-player.git
-](https://github.com/Santi7870/javascript30-video-player.git)
+https://github.com/Santi7870/javascript30-video-player.git)
+
 
 2. Ingresa al directorio:
 
@@ -55,8 +55,7 @@ cd video-player
 
 - Deploy del Proyecto
 
- URL del deploy: (colocaremos el link luego de publicarlo)
-
+https://santi7870.github.io/javascript30-video-player/?v=2
 - Autor
 
 Santiago Panchi
