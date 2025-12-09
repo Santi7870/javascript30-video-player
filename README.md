@@ -36,24 +36,24 @@ video-player/
 
 - Capturas de Pantalla
 
-(Agrega aquí una imagen o un GIF del reproductor funcionando.
-Puedes usar: Win + Shift + S para capturar, o ScreenToGif si quieres un GIF.)
+<img width="882" height="670" alt="image" src="https://github.com/user-attachments/assets/5bb84a5d-c7c6-44bb-99c8-2efbed76ddc6" />
+
 
 - Cómo Ejecutarlo Localmente
 
-Clona este repositorio:
+1. Clona este repositorio:
 
-git clone https://github.com/TU-USUARIO/video-player.git
+[git clone https://github.com/TU-USUARIO/video-player.git
+](https://github.com/Santi7870/javascript30-video-player.git)
 
-
-Ingresa al directorio:
+2. Ingresa al directorio:
 
 cd video-player
 
 
-Abre el archivo index.html en tu navegador.
+3. Abre el archivo index.html en tu navegador.
 
- Deploy del Proyecto
+- Deploy del Proyecto
 
  URL del deploy: (colocaremos el link luego de publicarlo)
 
