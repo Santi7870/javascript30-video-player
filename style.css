@@ -1,0 +1,77 @@
+/* ======== ESTILOS GENERALES ======== */
+body {
+  margin: 0;
+  background: #0d0d0d;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* ======== CONTENEDOR DEL PLAYER ======== */
+.player {
+  width: 800px;
+  background: #111;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0px 0px 20px rgba(255, 0, 0, 0.25);
+}
+
+/* ======== VIDEO ======== */
+.viewer {
+  width: 100%;
+  display: block;
+}
+
+/* ======== CONTROLES ======== */
+.controls {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  background: #1a1a1a;
+  color: white;
+}
+
+/* Botón Play */
+.play-btn {
+  width: 60px;
+  height: 60px;
+  font-size: 30px;
+  margin-bottom: 10px;
+  border: none;
+  border-radius: 50%;
+  background: #e50914;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.play-btn:hover {
+  background: #b30610;
+}
+
+/* Barra de progreso */
+.progress {
+  width: 100%;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+/* Configuraciones */
+.settings {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.settings label {
+  margin-right: 10px;
+  color: #ccc;
+}
+
+.settings input[type="range"] {
+  width: 120px;
+  cursor: pointer;
+}
